@@ -1,0 +1,6 @@
+{
+  "name": "Gaja AI Learn",
+  "description": "See Anything. Understand Everything. An intelligent multimodal AI learning companion that explains any object, photo, or question in simple words.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
